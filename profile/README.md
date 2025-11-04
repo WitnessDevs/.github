@@ -1,3 +1,7 @@
+<div align="center">
+  <img width="100%" height="100%" src="images/banner.png">
+</div
+
 # WitnessDevs
 
 A collaborative space for Jehovah’s Witness developers who enjoy building clear, thoughtful, and open-source software.
