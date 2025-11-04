@@ -25,6 +25,6 @@ Contributions can be small, large, or somewhere in between — every improvement
 
 ## Current Projects
 
-* **Vector** - A lightweight SCSS framework for building responsive websites
-* **Vector Icons** — Official open source SVG icon library for Vector
+* **[Vector](https://github.com/WitnessDevs/Vector)** - A lightweight SCSS framework for building responsive websites
+* **[Vector Icons](https://github.com/WitnessDevs/icons)** — Official open source SVG icon library for Vector
 * More tools and libraries coming soon
